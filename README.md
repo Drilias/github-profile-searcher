@@ -2,14 +2,14 @@
 
 Website to search for github usernames
 
-#### Tecnologias:
+#### Technologies:
 - React
 - styled-components
 
 #### Link: 
 https://github-profile-searcher.surge.sh
 
-#### Funcionalidades:
+#### Functionalities:
 - search github usernames
 - visualize data about the users
 - link to the profile clicking on the photo
